@@ -1,0 +1,9 @@
+{
+	"name": "Lilian-Hospital-Data-Factory",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "302b188a-0f01-40db-a213-3eb19e448b21",
+		"tenantId": "58c3fea9-a34b-49ae-a644-cd4acb56e9d2"
+	}
+}
